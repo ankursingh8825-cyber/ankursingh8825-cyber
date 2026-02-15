@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ankur Kumar Singh  
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/your-github-username?label=Followers&style=social)
+![Student](https://img.shields.io/badge/Role-Student-blue?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen?style=flat-square)
 
 🎓 Student at **KIIT University**  
 💻 Interested in **Data Science | Machine Learning | Python | C Programming**  
